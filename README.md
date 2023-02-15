@@ -1,3 +1,3 @@
-# launchgui_ola
+# launchgui
 
-Drok3 GUI package
+Drok4 GUI package
